@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ProChamp</string>
+    <string name="clang">C</string>
+    <string name="Cpp">C++</string>
+    <string name="Py">Python</string>
+</resources>
